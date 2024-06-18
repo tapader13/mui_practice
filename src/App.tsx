@@ -1,5 +1,10 @@
 import './App.css';
-import Grids from './components/Grids';
+import Navvar from './components/Navvar';
+// import Imagelists from './components/Imagelists';
+// import Accordions from './components/Accordions';
+// import Cards from './components/Cards';
+// import Papers from './components/Papers';
+// import Grids from './components/Grids';
 // import AutoCompletes from './components/AutoCompletes';
 // import Stacks from './components/Stacks';
 // import Ratings from './components/Ratings';
@@ -25,7 +30,12 @@ function App() {
       {/* <Ratings /> */}
       {/* <AutoCompletes /> */}
       {/* <Stacks /> */}
-      <Grids />
+      {/* <Grids /> */}
+      {/* <Papers /> */}
+      {/* <Cards /> */}
+      {/* <Accordions /> */}
+      {/* <Imagelists /> */}
+      <Navvar />
     </>
   );
 }
