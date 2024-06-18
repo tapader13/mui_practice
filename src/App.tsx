@@ -1,5 +1,7 @@
 import './App.css';
-import AutoCompletes from './components/AutoCompletes';
+import Grids from './components/Grids';
+// import AutoCompletes from './components/AutoCompletes';
+// import Stacks from './components/Stacks';
 // import Ratings from './components/Ratings';
 // import Switchs from './components/Switchs';
 // import Checkboxs from './components/Checkboxs';
@@ -21,7 +23,9 @@ function App() {
       {/* <Checkboxs /> */}
       {/* <Switchs /> */}
       {/* <Ratings /> */}
-      <AutoCompletes />
+      {/* <AutoCompletes /> */}
+      {/* <Stacks /> */}
+      <Grids />
     </>
   );
 }
